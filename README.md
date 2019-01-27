@@ -1,4 +1,4 @@
-# JavaFXA_04_MultiForms
+# JavaFX_MultiForms
 Простейшая многооконная программа на JavaFX
 
 ![Screenshot](screenshot1.png)
